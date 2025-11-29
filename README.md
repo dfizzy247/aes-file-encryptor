@@ -512,7 +512,6 @@ This project was inspired by the need for accessible encryption tools in educati
 **Daniel Ayoola**
 
 - **GitHub:** [@dfizzy247](https://github.com/dfizzy247)
-- **Email:** your.email@example.com
 - **LinkedIn:** [Daniel (Oluwadurotimi) Ayoola](www.linkedin.com/in/daniel-ayoola)
 
 ---
